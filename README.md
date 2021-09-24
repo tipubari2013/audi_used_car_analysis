@@ -8,3 +8,7 @@ Reading the csv file
  - A. What are the top 5 selling car models in the dataset?
  - B. What's the average selling price of the top 5 selling car models?
  - C. What's the total sale of the top 5 selling car models?
+  - Separating the numeric features and target variable, 
+  - Split the original dataset into the train set (80%) and the test set (20%), 
+  - Perform Linear Regression and Predict the 'Price' from the test set, 
+  - Find the RMSE value from the actual test data and the predicted data.
