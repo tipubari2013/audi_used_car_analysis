@@ -12,3 +12,9 @@ Reading the csv file
   - Split the original dataset into the train set (80%) and the test set (20%), 
   - Perform Linear Regression and Predict the 'Price' from the test set, 
   - Find the RMSE value from the actual test data and the predicted data.
+ - Perform One-hot Encoding
+ - Split the original dataset into the train set (80%) and the test set (20%),
+ - Perform Linear Regression and Predict the 'Price' from the test set,
+ - Show the coefficients of your linear regression model for each feature and show the y-intercept value of your linear regression model. (Interpret the coefficients)
+ - (F) Find the MAE, MAPE, MSE, RMSE, coefficient of determination values from the actual target variable and the predicted target variable.
+ - (G) Compare the actual and predicted target variable through visualization
